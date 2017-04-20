@@ -1,1 +1,1 @@
-# chat-application-nodejs
+# chat-application-nodejs: http://cs557b-chat-application.herokuapp.com/
