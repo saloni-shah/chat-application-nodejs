@@ -20,8 +20,5 @@ http://localhost:<PORT#>
 5. It will ask you for your name and then you will be in a chat room
 6. You can open another browser window and login using a different name and chat with a user from step #5
 
-
-
-
-
+Happy Chatting! :)
 
